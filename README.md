@@ -1,7 +1,8 @@
 # Gentrification in East Austin from 2015-2019
 
-Gentrification in East Austin, Tx Group project analyzing data from housing, schools, and construction to figure out if poverty was pushed out of the city's historically gentrified east side between 2015 and 2019.
-(@Pg-git27 analyzed school construction permit data ) -UT Austin Bootcamp.
+## Hypothesis:
+
+Poverty will be more concentrated in East Austin in 2015 as compared to the rest of the city, and as time goes on, the poverty level in East Austin will decrease as gentrification pushes people out of Austin altogether.
 
 ![image1](https://github.com/user-attachments/assets/0cc90c50-b29c-4405-a558-34b1fb5020a6)
 
