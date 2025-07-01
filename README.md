@@ -1,5 +1,8 @@
-# project_one_yellow_ninjas
-Gentrification in Austin, Tx Group project analyzing data from housing, schools, and construction to figure out if poverty was pushed out of the city's historically gentrified east side between 2015 and 2019.(@Pg-git27 analyzed school construction permit data ) -UT Austin Bootcamp.
+# Gentrification in East Austin from 2015-2019
+
+Gentrification in East Austin, Tx Group project analyzing data from housing, schools, and construction to figure out if poverty was pushed out of the city's historically gentrified east side between 2015 and 2019.
+(@Pg-git27 analyzed school construction permit data ) -UT Austin Bootcamp.
+
 ![image1](https://github.com/user-attachments/assets/0cc90c50-b29c-4405-a558-34b1fb5020a6)
 
 Our Questions for Gentrification in East Austin (i.e. measures of gentrification):
